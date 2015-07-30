@@ -1,0 +1,84 @@
+
+body {
+	font-size: 12px;
+}
+
+
+h1 {
+	text-align: left;
+	font-size: 30px;
+	font-family: Courier;
+}
+
+h2 {
+	text-align: left;
+	font-size: 14px;
+	font-family: Courier;
+	line-height: 8px;
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: bold;
+
+}
+
+h4 {
+	font-weight: bolder;
+	font-size: 16.5px;
+	border-top: 1px solid black;
+	padding-top: 30px;
+}
+
+h5 {
+	font-style: bold;
+	font-size: 15px
+}
+
+#main {
+	margin: 50px 150px 50px 150px;
+	padding: 50px;
+	border: 1px solid #003300;
+	border-radius: 8px; 
+	background-color: #DEE3E5;
+	background: linear-gradient(#CCE0CC, #4D944D);
+	font-family: Palatino, Arial, sanserif;
+	font-size: 15px;
+	box-shadow: 2px 4px #003300;
+}
+
+a:link {
+	text-decoration: none;
+	color: black;	
+}
+
+#header {
+	border: 2.5px solid black;
+	border-radius: 8px;
+	box-shadow: 2px 3px darkgrey;
+	padding: 25px;
+	margin-bottom: 50px;
+}
+
+.date {
+	float: right;
+}
+
+#selfie {
+	width: 350px;
+}
+
+img {
+	float: right;
+	border: 3px solid black;
+	box-shadow: 2px 3px darkgrey;
+	margin: 25px 40px 25px 25px;
+}
+
+#tech {
+	width: 400px;
+}
+
+.section {
+	margin-top: 100px;
+}
